@@ -1,0 +1,120 @@
+
+img{
+  max-width: 100%;
+}
+
+.main-div{
+  width: 750px;
+  height: 572px;
+  border: 1px solid #eae0e0;
+  margin: 40px auto;
+  border-radius: 10px;
+  box-shadow: 0 0 2px gray;
+  padding: 15px;
+}
+.logo{}
+.logo img{
+  max-width: 100%;
+width: 160px;
+height: auto;
+margin-top: 36px;
+}
+.logo h3{
+  font-size: 25px;
+margin-top: 15px;
+}
+input{
+  margin-top: 21px;
+border-radius: 10px;
+border: none;
+border: 1px solid gray;
+height: 35px;
+width: 200px;
+padding: 10px;
+margin-left: 10px;
+}
+.input{}
+#id{}
+#email{
+  width: 420px;
+}
+.{}
+
+.div2 img{
+  margin-top: 110px;
+}
+
+.h41{
+  font-size: 14px;
+font-weight: bold;
+margin-top: 10px
+}
+.h51{
+  font-size: 17px;
+margin-top: 12px;
+color: blue;
+
+}
+.h52{
+  font-size: 14px;
+margin-top: 14px;
+font-weight: bold;
+}
+
+.btn{
+  display: inline-block;
+  background-color: #1a73e8;
+  width: 79px;
+  margin-top: -42px;
+  margin-left: 333px;
+  color: white;
+}
+
+a{
+  display: inline-block;
+  margin-top: 34px;
+  margin-left: 124px;
+  text-decoration: none;
+}
+
+P{
+  font-size: 16px;
+margin-left: 33px;
+color: gray;
+}
+
+.img1{
+  display: inline-block;
+margin-left: 424px;
+margin-top: -58px;
+}
+
+h6{
+  margin-left: 193px;
+  margin-top: -20px
+}
+
+.menu{}
+.menu ul{
+  text-align: center;
+margin-top: -53px;
+margin-left: -67px;
+}
+.menu ul li{
+  list-style-type: none;
+  display: inline-block;
+  margin-left: -101px;
+}
+.menu ul li a{
+  display: inline-block;
+margin-top: 34px;
+margin-left: 124px;
+text-decoration: none;
+}
+
+select{
+  margin-left: 200px;
+margin-top: -28px;
+display: inherit;
+border: none;
+}
